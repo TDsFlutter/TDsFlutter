@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trunal Dungarani</h1>
 <h3 align="center">I'm a passionate Flutter Developer with a love for building beautiful and functional mobile applications. With a strong foundation in Dart and experience in various libraries and frameworks, I strive to create seamless user experiences.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tdsflutter&label=Profile%20views&color=0e75b6&style=flat" alt="tdsflutter" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tdsflutter" alt="tdsflutter" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
